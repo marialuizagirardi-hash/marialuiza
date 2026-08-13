@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(5, 49, 94);
+    background-color: rgb(117, 162, 207);
 }
 
 .cartao {
@@ -24,9 +24,18 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-
+    background-color:dodgerblue ;
 }
 
 main {
     flex: 1;
+}
+
+.cabecalho-link{
+    color:rgb(106, 134, 161)
+    text-decoration: none;
+}
+
+h1{
+    color:rgb(158, 195, 233)
 }
