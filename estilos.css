@@ -46,3 +46,17 @@ footer{
 .discodenewton{
     display: flex;
 }
+
+.div{
+    display: flex;
+
+    justify-content: center;
+
+    width: 800 px;
+    height: 500 px;
+    background-color: ivory;
+    padding: 30 px;
+
+    border-radius: 30 px;
+
+}
